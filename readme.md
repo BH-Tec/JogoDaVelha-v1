@@ -9,10 +9,6 @@
   <a href="#memo-licença">Licença</a>
 </p>
 
-<p align="center">
-<a href="https://wakatime.com/badge/user/68660678-6b86-4b78-98df-f5f41a37e1bc/project/851e3420-ea5c-40f9-9c75-413fc79c3c79"><img src="https://wakatime.com/badge/user/68660678-6b86-4b78-98df-f5f41a37e1bc/project/851e3420-ea5c-40f9-9c75-413fc79c3c79.svg" alt="wakatime"></a>
-</p>
-
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
